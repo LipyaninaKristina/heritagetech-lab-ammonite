@@ -1,0 +1,18 @@
+{
+  "project": "HeritageTech Lab #01",
+  "object": "Ammonite",
+  "run_mode": "TEST",
+  "source_directory": "/kaggle/input/datasets/kpoviesistphane/3d-object-reconstruction-from-images/Ammonite",
+  "source_images_total": 102,
+  "images_used": 72,
+  "max_image_side": 1800,
+  "registered_images": 72,
+  "registration_coverage": 1.0,
+  "sparse_points": 30153,
+  "dense_max_image_side": 1400,
+  "dense_points": 614608,
+  "mesh_vertices": 71140,
+  "mesh_faces": 74226,
+  "pycolmap_version": "4.1.1",
+  "created_utc": "2026-08-19T15:51:48.050866+00:00"
+}
